@@ -1,1 +1,5 @@
 venv/
+# Environment variables / secrets
+.env.*
+!.env.example
+.env
